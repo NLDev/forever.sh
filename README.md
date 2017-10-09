@@ -2,7 +2,7 @@
 
 <p align="center">
 <img height="150" width="auto" src="https://raw.githubusercontent.com/NLDev/forever.sh/master/.img/forever.png" /><br>
-:repeat: Bash script to managed multiple [foreverjs](https://github.com/foreverjs/forever) instances at once.
+:repeat: Bash script to managed multiple foreverjs instances at once.
 </p>
 
 ## What does it do?
