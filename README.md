@@ -51,3 +51,10 @@ The script features some **arguments**:
 | `-r` or `--restart` | Stops and restarts all scripts |
 
 That's all :smile_cat:
+
+<p align="center">
+<br>
+<strike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strike> Screenshot <strike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strike><br>
+<br>
+<img src="https://raw.githubusercontent.com/NLDev/forever.sh/master/.img/scr1.png" /><br>
+</p>
