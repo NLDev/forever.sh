@@ -1,7 +1,7 @@
 # forever.sh
 
 <p align="center">
-<img height="150" width="auto" src="https://raw.githubusercontent.com/NLDev/forever.sh/master/.img/forever.png" /><br>
+<img height="150" width="auto" src="https://raw.githubusercontent.com/NullDev/forever.sh/master/.img/forever.png" /><br>
 :repeat: Bash script to managed multiple foreverjs instances at once.
 </p>
 
@@ -14,7 +14,7 @@ It starts multiple specified scripts at once with [foreverjs](https://github.com
 ```bash
 src="app.js"
 ```
-On [Line 5](https://github.com/NLDev/forever.sh/blob/master/forever.sh#L5) specifies the name of the script to execute in the directories mentioned below.
+On [Line 5](https://github.com/NullDev/forever.sh/blob/master/forever.sh#L5) specifies the name of the script to execute in the directories mentioned below.
 
 <hr>
 
@@ -26,7 +26,7 @@ declare -a arr=(
 	"and so on..."
 )
 ```
-From [Line 8 to Line 13](https://github.com/NLDev/forever.sh/blob/master/forever.sh#L8-L13) sets the name of the folders (in the current directory) in which the script (specified above) will get executed.
+From [Line 8 to Line 13](https://github.com/NullDev/forever.sh/blob/master/forever.sh#L8-L13) sets the name of the folders (in the current directory) in which the script (specified above) will get executed.
 
 <hr>
 
@@ -37,7 +37,7 @@ declare -a abs=(
 	"and so on..."
 )
 ```
-From [Line 16 to Line 20](https://github.com/NLDev/forever.sh/blob/master/forever.sh#L16-L20) specifies other script. Whether they are in a different directory, are not [NodeJS](https://nodejs.org) or if they do not feature a script with the above specified name you can add them here. All paths are absolut!
+From [Line 16 to Line 20](https://github.com/NullDev/forever.sh/blob/master/forever.sh#L16-L20) specifies other script. Whether they are in a different directory, are not [NodeJS](https://nodejs.org) or if they do not feature a script with the above specified name you can add them here. All paths are absolut!
 
 <hr>
 
@@ -56,5 +56,5 @@ That's all :smile_cat:
 <br>
 <strike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strike> Screenshot <strike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strike><br>
 <br>
-<img src="https://raw.githubusercontent.com/NLDev/forever.sh/master/.img/scr1.png" /><br>
+<img src="https://raw.githubusercontent.com/NullDev/forever.sh/master/.img/scr1.png" /><br>
 </p>
